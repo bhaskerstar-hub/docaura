@@ -1,35 +1,35 @@
-# ScanQuill Privacy Policy
+# DocAura Privacy Policy
 
 _Last updated: July 16, 2026_
 
-ScanQuill is built around one principle: **your documents are yours.**
+DocAura is built around one principle: **your documents are yours.**
 
 ## What we collect
 
-**Nothing.** ScanQuill collects no personal data, no analytics, no identifiers, and no usage information — from anyone, of any age.
+**Nothing.** DocAura collects no personal data, no analytics, no identifiers, and no usage information — from anyone, of any age.
 
 ## How your documents are handled
 
 - All scanning, text recognition (OCR), editing, and PDF processing happens **entirely on your device**, using Apple's built-in frameworks.
 - Your scans and PDFs are stored **only in the app's local storage on your device** (visible in the iOS Files app). They are never uploaded anywhere.
-- ScanQuill has **no servers**, no user accounts, and makes **no network connections** for its features.
+- DocAura has **no servers**, no user accounts, and makes **no network connections** for its features.
 - Text recognized by OCR stays inside the PDF file on your device.
 
 ## Camera access
 
-ScanQuill asks for camera permission solely to scan documents. Images captured are processed on-device and are only saved where you choose. You can revoke this permission at any time in Settings → ScanQuill.
+DocAura asks for camera permission solely to scan documents. Images captured are processed on-device and are only saved where you choose. You can revoke this permission at any time in Settings → DocAura.
 
 ## Photos
 
-When you use "Gallery to PDF," ScanQuill uses Apple's out-of-process photo picker. The app only receives the specific photos you select — it has no access to your photo library.
+When you use "Gallery to PDF," DocAura uses Apple's out-of-process photo picker. The app only receives the specific photos you select — it has no access to your photo library.
 
 ## Sharing
 
-When you use the Share button, files go directly from your device to the app or destination **you** choose, through Apple's standard share sheet. ScanQuill has no visibility into or record of what you share.
+When you use the Share button, files go directly from your device to the app or destination **you** choose, through Apple's standard share sheet. DocAura has no visibility into or record of what you share.
 
 ## Third parties
 
-ScanQuill contains no third-party SDKs, no advertising frameworks, and no tracking technologies.
+DocAura contains no third-party SDKs, no advertising frameworks, and no tracking technologies.
 
 ## Passwords (Unlock PDF)
 
@@ -37,7 +37,7 @@ Passwords you enter to unlock your own PDFs are used once, in memory, on-device,
 
 ## Your documents, your responsibility (Disclaimer)
 
-Because ScanQuill stores nothing outside your device and keeps no copies of anything, responsibility for your documents rests entirely with you:
+Because DocAura stores nothing outside your device and keeps no copies of anything, responsibility for your documents rests entirely with you:
 
 - **No cloud, no backup by us.** Your files exist only on your device (and in any backups *you* make, such as iCloud or computer backups of your device). If you delete the app, its files are deleted with it — except copies you have exported or shared.
 - **Your content.** You are solely responsible for the documents you scan, create, edit, sign, watermark, store, or share with this app — including keeping backups of anything important.
@@ -46,7 +46,7 @@ Because ScanQuill stores nothing outside your device and keeps no copies of anyt
 
 ## Changes to this policy
 
-If a future version of ScanQuill ever changes any of the above, this policy will be updated and the change will be clearly described in the App Store release notes before it takes effect.
+If a future version of DocAura ever changes any of the above, this policy will be updated and the change will be clearly described in the App Store release notes before it takes effect.
 
 ## Contact
 
